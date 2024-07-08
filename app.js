@@ -8,12 +8,12 @@ const products = [
     price: 119,
     colors: [
       {
-        code: "yellow",
-        img: "./img/file (3).png",
+        code: "blue",
+        img: "./img/file (16).png",
       },
       {
-        code: "gray",
-        img: "./img/file (1).png",
+        code: "red",
+        img: "./img/file (15).png",
       },
     ],
   },

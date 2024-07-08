@@ -195,7 +195,7 @@ nav {
   height: 100vh;
   background-color: whitesmoke;
   position: relative;
-  clip-path: polygon(0 15%, 100% 0, 100% 100%, 0% 100%);
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
 }
 
 .payment {
@@ -314,13 +314,13 @@ label {
   width: 32px;
   height: 32px;
   border-radius: 5px;
-  background-color: rgb(234, 234, 100);
+  background-color: rgb(19, 83, 108);
   margin-right: 10px;
   cursor: pointer;
 }
 
 .color:last-child {
-  background-color: rgb(114, 114, 117);
+  background-color: rgb(128, 31, 41);
 }
 
 .size {
